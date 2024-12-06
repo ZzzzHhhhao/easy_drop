@@ -1,1 +1,6 @@
-2
+drop_enable:1
+Packet_loss_rate:20
+rest_enable:1
+rest_time:20
+Complete_packet_loss:1
+loss_time:2
