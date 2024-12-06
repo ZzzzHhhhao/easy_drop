@@ -1,4 +1,4 @@
-drop_enable:1
+drop_enable:0
 Packet_loss_rate:20
 rest_enable:1
 rest_time:20
